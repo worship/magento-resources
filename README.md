@@ -36,6 +36,7 @@ magento-resources
   * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
   * [@monocat](http://twitter.com/monocat)
   * [@vinaikopp](http://twitter.com/vinaikopp)
+ * http://www.solvingmagento.com
 
 ### Presentations
 
